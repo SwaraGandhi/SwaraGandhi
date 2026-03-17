@@ -11,7 +11,7 @@ I'm Swara Gandhi, M.S in Computer Systems Networking and Telecommunications - a 
 
 #### 2026
 
-- **RSA Conference 2026 (Upcoming)** - Trusted identity propagation for autonomous agents across Cloud & SaaS
+- **RSA Conference 2026 (Upcoming)** - [Trusted identity propagation for autonomous agents across Cloud & SaaS](https://path.rsaconference.com/flow/rsac/us26/FullAgenda/page/catalog/session/1755548436040001CwbA)
 
 ---
 
