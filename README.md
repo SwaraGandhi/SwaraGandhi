@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <a href="https://www.linkedin.com/in/swaragandhi/">Swara Gandhi</a>👋</h1>
 
-I'm Swara Gandhi, M.S in Computer Systems Networking and Telecommunications - a Senior Solutions Architect at AWS with over six years of experience in identity, security, and cloud governance. I closely with engineering teams on product design in AWS IAM, Trusted Identity Propagation, AWS Identity Center, automated reasoning, and bridging disparate identity systems across cloud and enterprise environments. Recognized by Influential Women platform for leadership and innovation in the identity space.
+I'm Swara Gandhi, M.S in Computer Systems Networking and Telecommunications - a Senior Solutions Architect at AWS with over seven years of experience in identity, security, and cloud governance. I closely with engineering teams on product design in AWS IAM, Trusted Identity Propagation, AWS Identity Center, automated reasoning, and bridging disparate identity systems across cloud and enterprise environments. Recognized by Influential Women platform for leadership and innovation in the identity space.
 
 🌱  I love discussing access controls, data perimeters, IAM orchestration, policy-as-code, or anything that can uplift communities. 
 
