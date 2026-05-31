@@ -1,15 +1,20 @@
-<h1>Hi there, I'm <a href="https://www.linkedin.com/in/swaragandhi/">Swara Gandhi</a>👋</h1>
+Swara Gandhi is a Senior Solutions Architect in Identity Solutions at Amazon Web Services, based in New York. She is a 15x speaker at flagship AWS events - re:Invent, re:Inforce, and AWS Summits - and a speaker at RSA Conference 2026 on trusted identity propagation for autonomous agents across cloud and SaaS.
 
-I'm Swara Gandhi, M.S in Computer Systems Networking and Telecommunications - a Senior Solutions Architect at AWS with over seven years of experience in identity, security, and cloud governance. I closely with engineering teams on product design in AWS IAM, Trusted Identity Propagation, AWS Identity Center, automated reasoning, and bridging disparate identity systems across cloud and enterprise environments. Recognized by Influential Women platform for leadership and innovation in the identity space.
+Swara specializes in access controls, data perimeters, and policy-as-code, delivering large-scale identity features and reference architectures adopted by Fortune 100 financial institutions. She is a core contributor to Amazon Bedrock AgentCore Identity, building OAuth flows, identity propagation patterns, and zero-trust primitives for the agentic AI era.
 
-🌱  I love discussing access controls, data perimeters, IAM orchestration, policy-as-code, or anything that can uplift communities. 
+Swara is a contributor to the Internet Engineering Task Force (IETF) and FIDO Alliance, and serves on the IDPro Body of Knowledge Committee. She co-hosts industry webinars on bridging identity gaps across teams and systems, and is the author of widely-adopted AWS best practices, case studies, and open-source tooling for enterprise identity governance.
 
+In 2025, Swara was recognized by the Influential Women platform for leadership and innovation in the identity space.
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
  
 ## 📣 Speaking Engagements
 
 #### 2026
+
+- **Authenticate 2026 (The FIDO Conference)** - AI Agent Identity Patterns with SPIFFE and SPIRE (upcoming)
+
+- **IEEE Cloud Summit 2026** - Identity propagation patterns for AI agents (upcoming)
 
 - **RSA Conference 2026** - [Trusted identity propagation for autonomous agents across Cloud & SaaS](https://path.rsaconference.com/flow/rsac/us26/FullAgenda/page/catalog/session/1755548436040001CwbA)
 
