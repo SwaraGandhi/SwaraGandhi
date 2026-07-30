@@ -72,6 +72,8 @@ In 2025, Swara was recognized by the Influential Women platform for leadership a
   
   ## ✍️ Publications
   
+  - [Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity](https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/)
+  
   - [Restrict AWS Management Console access to expected networks with sign-in resource-based policies and
   RCPs](https://aws.amazon.com/blogs/security/restrict-aws-management-console-access-to-expected-networks-with-sign-in-resource-based-policies-and-rcps/)
   
