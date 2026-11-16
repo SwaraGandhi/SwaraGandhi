@@ -12,7 +12,7 @@ In 2025, Swara was recognized by the Influential Women platform for leadership a
   
   #### 2026
   
-  - **Authenticate 2026 (The FIDO Conference)** - [AI Agent Identity Patterns with SPIFFE and SPIRE](https://authenticatecon.com/event/authenticate-u-s-2026/) (upcoming)
+  - **Authenticate 2026 (The FIDO Conference)** - [AI Agent Identity Patterns with SPIFFE and SPIRE](https://swaragandhi.com/talks/#:~:text=EVENT%20DETAILS-,WATCH%20RECORDING,-CITE)
   
   - **IEEE Cloud Summit 2026** - [Identity propagation patterns for AI agents](https://app.ieee-cloud-summit.org/4163ba07-d28c-42ad-8573-c0976e0851e7/sessions/9915dd3d-d6bb-4a33-993f-f8a57a581eae)
   
